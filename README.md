@@ -1,5 +1,11 @@
 # express-simple-blog
 a simple blog use express, learn from N-blog.
 
+``` bash
+# install dependencies
+npm install
 
-#### 运行 npm start 通过 pm2 启动程序
+# serve with hot reload at 127.0.0.1:3000
+npm start
+
+```
